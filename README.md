@@ -59,7 +59,7 @@ collect any data from anyone, including children.
 will be updated and the change clearly announced in the app's release notes
 before it takes effect.
 
-**Contact.** cutwisdev@gmail.com
+**Contact.** cutwisedev@gmail.com
 
 ## Politique de confidentialité
 
