@@ -88,7 +88,7 @@ informations de paiement.
 **Enfants.** Remindwise est une application tous publics et ne collecte
 sciemment aucune donnée de quiconque, y compris des enfants.
 
-**Contact.** cutwisdev@gmail.com
+**Contact.** cutwisedev@gmail.com
 
 ## Disclaimer
 
@@ -100,7 +100,7 @@ affiliated with any brand or organisation mentioned in task names.
 
 ## Support
 
-cutwisdev@gmail.com
+**Contact.** cutwisedev@gmail.com
 
 ---
 Developer: Kebbre. Built with Kotlin Multiplatform / Compose Multiplatform.
